@@ -1,5 +1,6 @@
-<h3 align="center">🖖🏽 Hello world! I'm Meriç</h3>
+<h3 align="center">🖖🏽 Hello World! I'm Meriç</h3>
 <p align="center">A passionate Frontend Developer from Turkey 🇹🇷</p>
+<p align="center">(Of course I took some parts from the generator. Will modify everything later.)</p>
 <br />
 
 ---
