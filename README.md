@@ -6,11 +6,15 @@
 
 <br />
 
+
 <div align="center">
-  🧾 Know about my experiences:
-  [Resume](https://drive.google.com/file/d/1LGo8_CeJG1c3onfmAzcRwoUFJKuRwOkz/view?usp=share_link)
-  📂 I’m currently working on **My Portfolio Website** 🤫 Fun fact **Nothing can
-  hold me back from coding even ADHD, oh wait is that a butterfly?**
+
+🧾 Know about my experiences: [Resume](https://drive.google.com/file/d/1LGo8_CeJG1c3onfmAzcRwoUFJKuRwOkz/view?usp=share_link)
+
+📂 I’m currently working on **My Portfolio Website**
+
+🤫 Fun fact **Nothing can hold me back from coding even ADHD, oh wait is that a butterfly?**
+
 </div>
 
 <br />
