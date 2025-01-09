@@ -10,7 +10,7 @@
 
 <div align="center">
 
-🧾 Know about my experiences: [Resume](https://drive.google.com/file/d/1LGo8_CeJG1c3onfmAzcRwoUFJKuRwOkz/view?usp=share_link)
+🧾 Know about my experiences: [Resume](https://drive.google.com/file/d/1-2cufMQ2F-pGQ-02cRtRnXKf25EkKRgw/view?usp=sharing)
 
 📂 I’m currently working on **My Portfolio Website**
 
