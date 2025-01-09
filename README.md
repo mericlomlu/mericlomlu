@@ -1,6 +1,5 @@
 <h3 align="center">🖖🏽 Hello World! I'm Meriç</h3>
-<p align="center">A passionate Frontend Developer from Turkey 🇹🇷</p>
-<p align="center">(Of course I took some parts from the generator. Will modify everything later.)</p>
+<p align="center">I am a front-end developer with deep expertise in Next.js, my strongest and most efficient framework. While I excel in Next.js, I am also proficient in React and React Native. Passionate about continuous learning and self-improvement, I thrive on challenges that push me to grow and adapt. Known for my fast learning and adaptability, I strive to deliver clean and efficient solutions while staying ahead in the ever-evolving tech landscape.</p>
 <br />
 
 ---
