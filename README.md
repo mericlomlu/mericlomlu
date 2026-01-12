@@ -31,45 +31,6 @@
 </h3>
 
 <br />
-
-<p align="center">
-  <a
-    href="https://git-scm.com/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-      height="40"
-      alt="git logo"
-    />
-  </a>
-  <img width="12" />
-  <a
-    href="https://github.com"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://skillicons.dev/icons?i=github"
-      height="40"
-      alt="github logo"
-    />
-  </a>
-
-  <img width="12" />
-  <a
-    href="https://about.gitlab.com"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"
-      height="40"
-      alt="gitlab logo"
-    />
-  </a>
-  <img width="12" />
   <a
     href="https://nextjs.org/"
     target="_blank"
@@ -91,6 +52,19 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
       height="40"
       alt="react logo"
+    />
+  </a>
+  <img width="12" />
+<p align="center">
+  <a
+    href="https://git-scm.com/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+      height="40"
+      alt="git logo"
     />
   </a>
   <img width="12" />
@@ -131,6 +105,18 @@
   </a>
   <img width="12" />
   <a
+    href="https://www.w3schools.com/css/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+      height="40"
+      alt="css3 logo"
+    />
+  </a>
+  <img width="12" />
+  <a
     href="https://tailwindcss.com/"
     target="_blank"
     rel="noreferrer"
@@ -153,55 +139,7 @@
       alt="sass logo"
     />
   </a>
-  <img width="12" />
-  <a
-    href="https://www.w3schools.com/css/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-      height="40"
-      alt="css3 logo"
-    />
-  </a>
-  <img width="12" />
-  <a
-    href="https://reactnative.dev/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://reactnative.dev/img/header_logo.svg"
-      alt="reactnative"
-      width="40"
-      height="40"
-    />
-  </a>
-  <img width="12" />
-  <a
-    href="https://redux.js.org"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-      height="40"
-      alt="redux logo"
-    />
-  </a>
-  <img width="12" />
-  <a
-    href="https://firebase.google.com/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-      height="40"
-      alt="firebase logo"
-    />
-  </a>
+  
 </p>
 
 <br />
