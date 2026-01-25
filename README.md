@@ -29,9 +29,8 @@
 >
   Languages and Tools
 </h3>
-
-<br />
-  <a
+<p align="center">
+   <a
     href="https://nextjs.org/"
     target="_blank"
     rel="noreferrer"
@@ -48,14 +47,13 @@
     target="_blank"
     rel="noreferrer"
   >
-    <img
+      <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
       height="40"
       alt="react logo"
     />
   </a>
   <img width="12" />
-<p align="center">
   <a
     href="https://git-scm.com/"
     target="_blank"
@@ -139,9 +137,7 @@
       alt="sass logo"
     />
   </a>
-  
 </p>
-
 <br />
 
 ---
