@@ -1,94 +1,159 @@
-<div align="center">
-
-# 👋 Hi, I'm Meriç Lomlu
-
-### Front-End Developer | Next.js Specialist | React Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mericlomlu)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1dp3w1wITvdawX7ILCQPZ4_uG4QjWrgnb/view?usp=share_link)
-
-</div>
+<h3 align="center">🖖🏽 Hello World! I'm Meriç</h3>
+<p align="center">I am a front-end developer with deep expertise in Next.js, my strongest and most efficient framework. While I excel in Next.js, I am also proficient in React and React Native. Passionate about continuous learning and self-improvement, I thrive on challenges that push me to grow and adapt. Known for my fast learning and adaptability, I strive to deliver clean and efficient solutions while staying ahead in the ever-evolving tech landscape.</p>
+<br />
 
 ---
 
-## 🚀 About Me
+<br />
 
-I am a **front-end developer** with deep expertise in **Next.js**, my strongest and most efficient framework. While I excel in Next.js, I am also proficient in **React** and **React Native**. Passionate about creating seamless user experiences and writing clean, maintainable code.
-
-```typescript
-const meric = {
-  location: "🌍 World",
-  currentFocus: "Building My Portfolio Website",
-  funFact: "Nothing can hold me back from coding—even ADHD! Oh wait, is that a butterfly? 🦋"
-};
-```
-
----
-
-## 💻 Tech Stack
 
 <div align="center">
 
-### Core Technologies
+🧾 Know about my experiences: [Resume](https://drive.google.com/file/d/1dp3w1wITvdawX7ILCQPZ4_uG4QjWrgnb/view?usp=share_link)
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+📂 I’m currently working on **My Portfolio Website**
 
-### Styling & Design
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### Tools & Workflow
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+🤫 Fun fact **Nothing can hold me back from coding even ADHD, oh wait is that a butterfly?**
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mericlomlu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mericlomlu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mericlomlu&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)
-
-</div>
+<br />
 
 ---
 
-## 🌟 Currently Working On
+<br />
 
-🔨 **My Portfolio Website** - Showcasing my projects and skills with modern design
+<h3
+  align="center"
+  width="100%"
+>
+  Languages and Tools
+</h3>
+<p align="center">
+   <a
+    href="https://nextjs.org/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+      height="40"
+      alt="nextjs logo"
+    />
+  </a>
+  <img width="12" />
+  <a
+    href="https://reactjs.org/"
+    target="_blank"
+    rel="noreferrer"
+  >
+      <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      height="40"
+      alt="react logo"
+    />
+  </a>
+  <img width="12" />
+  <a
+    href="https://git-scm.com/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+      height="40"
+      alt="git logo"
+    />
+  </a>
+  <img width="12" />
+  <a
+    href="https://www.typescriptlang.org/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+      height="40"
+      alt="typescript logo"
+    />
+  </a>
+  <img width="12" />
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+      height="40"
+      alt="javascript logo"
+    />
+  </a>
+  <img width="12" />
+  <a
+    href="https://www.w3.org/html/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+      height="40"
+      alt="html5 logo"
+    />
+  </a>
+  <img width="12" />
+  <a
+    href="https://www.w3schools.com/css/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+      height="40"
+      alt="css3 logo"
+    />
+  </a>
+  <img width="12" />
+  <a
+    href="https://tailwindcss.com/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://cdn.simpleicons.org/tailwindcss/06B6D4"
+      height="40"
+      alt="tailwindcss logo"
+    />
+  </a>
+  <img width="12" />
+  <a
+    href="https://sass-lang.com"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+      height="40"
+      alt="sass logo"
+    />
+  </a>
+</p>
+<br />
 
 ---
 
-## 📫 Let's Connect
+<br />
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mericlomlu)
-
-**Open to collaboration and exciting opportunities!**
-
-</div>
-
----
-
-<div align="center">
-  
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-![Profile Views](https://komarev.com/ghpvc/?username=mericlomlu&color=58A6FF&style=for-the-badge)
-
-</div>
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a
+    href="https://linkedin.com/in/mericlomlu"
+    target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+      alt="mericlomlu"
+      height="30"
+      width="40"
+  /></a>
+</p>
