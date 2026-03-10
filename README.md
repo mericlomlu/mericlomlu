@@ -9,7 +9,7 @@
 
 <div align="center">
 
-🧾 Know about my experiences: [Resume](https://drive.google.com/file/d/1dp3w1wITvdawX7ILCQPZ4_uG4QjWrgnb/view?usp=share_link)
+🧾 Know about my experiences: [Resume](https://drive.google.com/file/d/1PxtLbgAAeoUkyWq6LSzuo8126lCeECkL/view?usp=sharing)
 
 📂 I’m currently working on **My Portfolio Website**
 
