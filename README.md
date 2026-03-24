@@ -31,6 +31,8 @@
   Languages and Tools
 </h4>
 
+<br/>
+
 <p align="center">
    <a
     href="https://nextjs.org/"
@@ -140,3 +142,12 @@
     />
   </a>
 </p>
+
+<br/>
+
+<div align="center">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=mericlomlu&theme=graywhite&hide_border=true"
+      alt="mericlomlu_github_streak"
+    />
+</div>
