@@ -1,30 +1,36 @@
-<h3 align="center">The name is Meriç</h3>
-<p align="center">I write code.</p>
-<br />
+<h4
+  align="center"
+  width="100%"
+>
+  About
+</h4>
+
+<p align="center">The name is Meriç and I write code.</p>
 
 ---
 
-<br />
+<h4
+  align="center"
+  width="100%"
+>
+  Experiences
+</h4>
 
-
-<div align="center">
-
-🧾 Know about my experiences: [Resume](https://drive.google.com/file/d/1PxtLbgAAeoUkyWq6LSzuo8126lCeECkL/view?usp=sharing)
+<div align="center" >
+  
+[Resume](https://drive.google.com/file/d/1PxtLbgAAeoUkyWq6LSzuo8126lCeECkL/view?usp=sharing) - [LinkedIn](https://linkedin.com/in/mericlomlu)
 
 </div>
 
-<br />
-
 ---
 
-<br />
-
-<h3
+<h4
   align="center"
   width="100%"
 >
   Languages and Tools
-</h3>
+</h4>
+
 <p align="center">
    <a
     href="https://nextjs.org/"
@@ -133,23 +139,4 @@
       alt="sass logo"
     />
   </a>
-</p>
-<br />
-
----
-
-<br />
-
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <a
-    href="https://linkedin.com/in/mericlomlu"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-      alt="mericlomlu"
-      height="30"
-      width="40"
-  /></a>
 </p>
