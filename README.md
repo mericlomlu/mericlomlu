@@ -1,5 +1,5 @@
-<h3 align="center">🖖🏽 Hello World! I'm Meriç</h3>
-<p align="center">I am a front-end developer with deep expertise in Next.js, my strongest and most efficient framework. While I excel in Next.js, I am also proficient in React and React Native. Passionate about continuous learning and self-improvement, I thrive on challenges that push me to grow and adapt. Known for my fast learning and adaptability, I strive to deliver clean and efficient solutions while staying ahead in the ever-evolving tech landscape.</p>
+<h3 align="center">The name is Meriç</h3>
+<p align="center">I write code.</p>
 <br />
 
 ---
@@ -10,10 +10,6 @@
 <div align="center">
 
 🧾 Know about my experiences: [Resume](https://drive.google.com/file/d/1PxtLbgAAeoUkyWq6LSzuo8126lCeECkL/view?usp=sharing)
-
-📂 I’m currently working on **My Portfolio Website**
-
-🤫 Fun fact **Nothing can hold me back from coding even ADHD, oh wait is that a butterfly?**
 
 </div>
 
