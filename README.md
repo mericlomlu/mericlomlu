@@ -1,34 +1,25 @@
-<h4
-  align="center"
-  width="100%"
->
-  About
+<h4 align="center" width="100%">
+About
 </h4>
 
 <p align="center">The name is Meriç and I write code.</p>
 
 ---
 
-<h4
-  align="center"
-  width="100%"
->
-  Experiences
+<h4 align="center" width="100%">
+Experiences
 </h4>
 
 <div align="center" >
-  
+
 [Resume](https://drive.google.com/file/d/1PxtLbgAAeoUkyWq6LSzuo8126lCeECkL/view?usp=sharing) - [LinkedIn](https://linkedin.com/in/mericlomlu)
 
 </div>
 
 ---
 
-<h4
-  align="center"
-  width="100%"
->
-  Languages and Tools
+<h4 align="center" width="100%">
+Languages and Tools
 </h4>
 
 <br/>
@@ -45,7 +36,6 @@
       alt="nextjs logo"
     />
   </a>
-  <img width="12" />
   <a
     href="https://reactjs.org/"
     target="_blank"
@@ -57,7 +47,6 @@
       alt="react logo"
     />
   </a>
-  <img width="12" />
   <a
     href="https://git-scm.com/"
     target="_blank"
@@ -69,7 +58,6 @@
       alt="git logo"
     />
   </a>
-  <img width="12" />
   <a
     href="https://www.typescriptlang.org/"
     target="_blank"
@@ -81,7 +69,6 @@
       alt="typescript logo"
     />
   </a>
-  <img width="12" />
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -93,7 +80,6 @@
       alt="javascript logo"
     />
   </a>
-  <img width="12" />
   <a
     href="https://www.w3.org/html/"
     target="_blank"
@@ -105,7 +91,6 @@
       alt="html5 logo"
     />
   </a>
-  <img width="12" />
   <a
     href="https://www.w3schools.com/css/"
     target="_blank"
@@ -117,7 +102,6 @@
       alt="css3 logo"
     />
   </a>
-  <img width="12" />
   <a
     href="https://tailwindcss.com/"
     target="_blank"
@@ -129,7 +113,6 @@
       alt="tailwindcss logo"
     />
   </a>
-  <img width="12" />
   <a
     href="https://sass-lang.com"
     target="_blank"
