@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=333333&center=true&vCenter=true&width=500&lines=Meri%C3%A7+Lomlu;Frontend+Developer;Building+towards+Fullstack" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=fe7a11&center=true&vCenter=true&width=500&lines=Meri%C3%A7+Lomlu;Frontend+Developer;Building+towards+Fullstack" alt="typing" />
 
 <br/>
 
