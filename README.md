@@ -4,7 +4,7 @@
 
 <a href="https://mericlomlu.com">🌐 mericlomlu.com</a> &nbsp;·&nbsp;
 <a href="https://linkedin.com/in/mericlomlu">LinkedIn</a> &nbsp;·&nbsp;
-<a href="https://drive.google.com/file/d/1PxtLbgAAeoUkyWq6LSzuo8126lCeECkL/view?usp=sharing">Resume</a>
+<a href="https://drive.google.com/file/d/1fD7J8XIl1xoorBpeylEHuvbKx0i7JO4F/view?usp=share_link">Resume</a>
 
 </div>
 
