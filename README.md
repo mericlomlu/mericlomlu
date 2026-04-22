@@ -16,8 +16,6 @@ banking and insurance. Expanding into fullstack with Java & Spring Boot.
 
 ---
 
-**Stack**
-
 <p>
   <sub>Languages</sub><br/>
   TypeScript · JavaScript · HTML5 · CSS3 · SCSS
