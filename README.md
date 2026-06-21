@@ -4,7 +4,7 @@
 
 <br/>
 
-4 years building web & mobile apps with Next.js, React and TypeScript  <br/>
+Four years building web & mobile apps with Next.js, React and TypeScript <br/>
 banking and insurance. Expanding into fullstack with Java & Spring Boot.
 
 <br/>
