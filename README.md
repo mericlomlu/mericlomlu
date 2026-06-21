@@ -42,6 +42,6 @@ banking and insurance. Expanding into fullstack with Java & Spring Boot.
 
 ---
 
-[mericlomlu.com](https://mericlomlu.com) · [LinkedIn](https://linkedin.com/in/mericlomlu) · [Resume](https://drive.google.com/file/d/1fD7J8XIl1xoorBpeylEHuvbKx0i7JO4F/view?usp=share_link)
+[mericlomlu.com](https://mericlomlu.com) · [LinkedIn](https://linkedin.com/in/mericlomlu) · [Resume](https://drive.google.com/file/d/1pWtyp3PsY_jwZpm03SDvc8XzIrDLyGCQ/view?usp=share_link)
 
 </div>
